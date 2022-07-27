@@ -1,1 +1,1 @@
-type end = " "
+print(type, end= " ")
