@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Defines a matrix multiplication function using NumPy."""
+# 100-matrix_mul.py
+"""Defines a matrix multiplication function."""
 import numpy as np
 
 

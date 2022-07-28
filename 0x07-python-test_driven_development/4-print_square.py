@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# 0-add_integer.py
+# John Harrison U <ugochukwujohn2014@gmail.com>
+"""Defines an integer addition function."""
 
 def print_square(size):
     """ A function that prints a square with the character #.

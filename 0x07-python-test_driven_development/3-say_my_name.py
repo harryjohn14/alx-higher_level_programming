@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-# 3-say_my_name.py
-# Brennan D Baraban <375@holbertonschool.com>
-"""Defines a name-printing function."""
-
+# 0-add_integer.py
+# John Harrison U <ugochukwujohn2014@gmail.com>
+"""Defines an integer addition function."""
 
 def say_my_name(first_name, last_name=""):
     """ A function that prints My name is <first name> <last name>.

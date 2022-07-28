@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# 0-add_integer.py
+# John Harrison U <ugochukwujohn2014@gmail.com>
+"""Defines an integer addition function."""
+
 def text_indentation(text):
     """ A function that prints a text with 2 new lines after each
         of these characters: , ? :

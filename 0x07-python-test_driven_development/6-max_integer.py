@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-"""Module to find the max integer in a list
-"""
-
+#!/usr/bin/python3
+# 0-add_integer.py
+# John Harrison U <ugochukwujohn2014@gmail.com>
+"""Defines an integer addition function."""
 
 def max_integer(list=[]):
     """Function to find and return the max integer in a list of integers
