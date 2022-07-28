@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-# 0-add_integer.py
+# 2-matrix_divided.py
 # John Harrison U <ugochukwujohn2014@gmail.com>
 """Defines an integer addition function."""
+
+
 
 def matrix_divided(matrix, div):
     """ A function that divides all elements of a matrix
