@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-
+# 0-add_integer.py
+# John Harrison U <ugochukwujohn2014@gmail.com>
 """Defines an integer addition function."""
+
 
 def add_integer(a, b=98):
     """A function that adds 2 integers.
